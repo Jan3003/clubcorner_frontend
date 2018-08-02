@@ -1,5 +1,4 @@
-# clubcorner_backend
-
+# Clubcorner
 Backend: https://github.com/schustern/clubcorner_backend
 
 Frontend: https://github.com/schustern/clubcorner_frontend
